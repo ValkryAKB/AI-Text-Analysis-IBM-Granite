@@ -206,11 +206,11 @@ Raw Dataset (Markdown) → Data Cleaning → EDA → Model Processing → Evalua
 
 ## 🔗 Links & Resources
 
-- **Google Colab Notebook**: [Link to live notebook]
+- **Google Colab Notebook**: (https://colab.research.google.com/drive/1ZyReUHBqdIXbrQ4OKjIhWqJS8xkuILBw?usp=sharing)
 - **Dataset Source**: Available in repository `/data` folder
 - **Presentation Slides**: Available in `/docs` folder
-- **IBM Granite Documentation**: [(https://replicate.com/ibm-granite/granite-3.3-8b-instruct)]
-- **Project Repository**: [(https://github.com/ValkryAKB/AI-Text-Analysis-IBM-Granite)]
+- **IBM Granite Documentation**: (https://replicate.com/ibm-granite/granite-3.3-8b-instruct)
+- **Project Repository**: (https://github.com/ValkryAKB/AI-Text-Analysis-IBM-Granite)
 
 ---
 
