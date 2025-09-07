@@ -1,0 +1,9 @@
+id,original_text,true_label,predicted_label,correct_prediction,text_length
+1,AI is used in healthcare to analyze medical images,Applications,Applications,True,45
+2,Researchers warn that AI can spread misinformation,Risks,Risks,True,52
+3,Using AI to monitor employees raises questions,Ethics,Ethics,True,48
+4,Experts believe AI will revolutionize transport,Future Trends,Future,True,50
+5,Chatbots powered by AI are transforming customer service,Applications,Applications,True,55
+6,Deepfake technology can be misused for fraud,Risks,Risks,True,42
+7,AI systems making life-death decisions need oversight,Ethics,Ethics,True,58
+8,Future AI might develop consciousness,Future Trends,Future,True,38
