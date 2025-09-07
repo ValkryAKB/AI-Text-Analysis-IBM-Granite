@@ -209,12 +209,12 @@ Raw Dataset (Markdown) → Data Cleaning → EDA → Model Processing → Evalua
 - **Google Colab Notebook**: [Link to live notebook]
 - **Dataset Source**: Available in repository `/data` folder
 - **Presentation Slides**: Available in `/docs` folder
-- **IBM Granite Documentation**: [Replicate Model Page]
-- **Project Repository**: [GitHub Repository Link]
+- **IBM Granite Documentation**: [(https://replicate.com/ibm-granite/granite-3.3-8b-instruct)]
+- **Project Repository**: [(https://github.com/ValkryAKB/AI-Text-Analysis-IBM-Granite)]
 
 ---
 
-**Author**: Ali Akbar Permana  
+**Author**: [Ali Akbar Permana]
 **Date**: September 2025  
-**Institution**: Bandung National Institute of Technology (ITENAS)
+**Institution**: [Bandung National Institute of Technology (ITENAS)]
 **Course**: Capstone Project
