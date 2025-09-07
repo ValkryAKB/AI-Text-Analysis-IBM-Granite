@@ -171,7 +171,7 @@ Raw Dataset (Markdown) → Data Cleaning → EDA → Model Processing → Evalua
 │   ├── dataset_clean-3.csv (200 entries)
 │   └── raw_dataset_3.csv
 ├── 📓 notebooks/
-│   ├── tes.ipynb (main analysis + interactive testing)
+│   ├── ai_text_classification_summarization.ipynb (main analysis + interactive testing)
 │   └── data_preparation.ipynb
 ├── 📈 results/
 │   ├── classification_results.csv
@@ -214,7 +214,7 @@ Raw Dataset (Markdown) → Data Cleaning → EDA → Model Processing → Evalua
 
 ---
 
-**Author**: [Your Name]  
+**Author**: Ali Akbar Permana  
 **Date**: September 2025  
-**Institution**: [Your Institution]  
+**Institution**: Bandung National Institute of Technology (ITENAS)
 **Course**: Capstone Project
