@@ -214,7 +214,7 @@ Raw Dataset (Markdown) → Data Cleaning → EDA → Model Processing → Evalua
 
 ---
 
-**Author**: [Ali Akbar Permana]
+**Author**: Ali Akbar Permana 
 **Date**: September 2025  
-**Institution**: [Bandung National Institute of Technology (ITENAS)]
+**Institution**: Bandung National Institute of Technology (ITENAS) 
 **Course**: Capstone Project
