@@ -163,16 +163,13 @@ Raw Dataset (Markdown) → Data Cleaning → EDA → Model Processing → Evalua
 4. **Interactive Dashboard**: Real-time classification interface
 
 ## 📁 Repository Structure
-
 ```
 📦 ai-text-classification
+├── 📓 ai_text_classification_summarization.ipynb (main analysis + interactive testing)
 ├── 📊 data/
 │   ├── dataset_clean-2.csv (100 entries)
 │   ├── dataset_clean-3.csv (200 entries)
 │   └── raw_dataset_3.csv
-├── 📓 notebooks/
-│   ├── ai_text_classification_summarization.ipynb (main analysis + interactive testing)
-│   └── data_preparation.ipynb
 ├── 📈 results/
 │   ├── classification_results.csv
 │   ├── testing_session_logs.json
@@ -181,10 +178,6 @@ Raw Dataset (Markdown) → Data Cleaning → EDA → Model Processing → Evalua
 │   ├── presentation.pdf
 │   ├── testing_shell_guide.md
 │   └── comparative_analysis.md
-├── 🧪 testing/
-│   ├── manual_testing_shell.py
-│   ├── batch_testing_examples.py
-│   └── edge_case_scenarios.txt
 └── 📋 README.md
 ```
 
