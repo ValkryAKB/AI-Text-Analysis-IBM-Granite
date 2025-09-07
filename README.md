@@ -167,12 +167,12 @@ Raw Dataset (Markdown) → Data Cleaning → EDA → Model Processing → Evalua
 📦 ai-text-classification
 ├── 📓 ai_text_classification_summarization.ipynb (main analysis + interactive testing)
 ├── 📊 data/
+│   ├── dataset_2.txt (100 entries)
+│   ├── dataset_3.txt (200 entries)
 │   ├── dataset_clean-2.csv (100 entries)
-│   ├── dataset_clean-3.csv (200 entries)
-│   └── raw_dataset_3.csv
+│   └── dataset_clean-3.csv (200 entries)
 ├── 📈 results/
-│   ├── classification_results.csv
-│   ├── testing_session_logs.json
+│   ├── ai_classification_results.csv
 │   └── visualizations/
 ├── 📄 docs/
 │   ├── presentation.pdf
